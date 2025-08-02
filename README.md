@@ -8,7 +8,7 @@ Search for hidden stats terms in a 20×20 grid
 
 Submit words by selecting their position and direction
 
-Get hints (at a cost to their score!)
+Get hints 
 
 Start new games with fresh word placements
 
